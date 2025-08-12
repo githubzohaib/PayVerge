@@ -42,11 +42,11 @@ const Pricing = () => {
               </div>
 
               <div className="mb-8 space-y-4 flex-grow">
-                <div className="flex items-center justify-center lg:justify-start space-x-3">
+                <div className="flex items-center justify-start space-x-3">
                   <Check className="w-5 h-5 text-green-400 flex-shrink-0" />
                   <span className="text-gray-300 text-lg">Expense Tracking</span>
                 </div>
-                <div className="flex items-center justify-center lg:justify-start space-x-3">
+                <div className="flex items-center justify-start space-x-3">
                   <Check className="w-5 h-5 text-green-400 flex-shrink-0" />
                   <span className="text-gray-300 text-lg">Basic Reports</span>
                 </div>
@@ -85,15 +85,15 @@ const Pricing = () => {
               </div>
 
               <div className="mb-8 space-y-4 flex-grow">
-                <div className="flex items-center justify-center lg:justify-start space-x-3">
+                <div className="flex items-center justify-start space-x-3">
                   <Check className="w-5 h-5 text-green-400 flex-shrink-0" />
                   <span className="text-gray-300 text-lg">Real Time Tracking</span>
                 </div>
-                <div className="flex items-center justify-center lg:justify-start space-x-3">
+                <div className="flex items-center justify-start space-x-3">
                   <Check className="w-5 h-5 text-green-400 flex-shrink-0" />
                   <span className="text-gray-300 text-lg">Budgeting Tools</span>
                 </div>
-                <div className="flex items-center justify-center lg:justify-start space-x-3">
+                <div className="flex items-center justify-start space-x-3">
                   <Check className="w-5 h-5 text-green-400 flex-shrink-0" />
                   <span className="text-gray-300 text-lg">Advanced Reports</span>
                 </div>
@@ -132,11 +132,11 @@ const Pricing = () => {
               </div>
 
               <div className="mb-8 space-y-4 flex-grow">
-                <div className="flex items-center justify-center lg:justify-start space-x-3">
+                <div className="flex items-center justify-start space-x-3">
                   <Check className="w-5 h-5 text-green-400 flex-shrink-0" />
                   <span className="text-gray-300 text-lg">Custom Integrations</span>
                 </div>
-                <div className="flex items-center justify-center lg:justify-start space-x-3">
+                <div className="flex items-center justify-start space-x-3">
                   <Check className="w-5 h-5 text-green-400 flex-shrink-0" />
                   <span className="text-gray-300 text-lg">Dedicated Support</span>
                 </div>
