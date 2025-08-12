@@ -2,6 +2,9 @@ import { motion } from "framer-motion";
 import Navbar from "../ui/Navbar";
 import FooterSection from "./FooterSection";
 import Hero from "./Hero";
+import AboutUs from "./Trust and Security";
+import FacultyReviews from "./Pricing";
+import WhyUs from "./WhyUs";
 
 const fadeInUp = {
   hidden: { opacity: 0, y: 40 },
@@ -24,14 +27,14 @@ const LandingPage = () => {
       </motion.div>
 
       {/* About Us Section */}
-      {/* <motion.div variants={fadeInUp} initial="hidden" whileInView="visible" viewport={{ once: true, amount: 0.2 }}>
+      <motion.div variants={fadeInUp} initial="hidden" whileInView="visible" viewport={{ once: true, amount: 0.2 }}>
         <AboutUs />
-      </motion.div> */}
+      </motion.div>
 
       {/* Faculty Reviews Section */}
-      {/* <motion.div variants={fadeInUp} initial="hidden" whileInView="visible" viewport={{ once: true, amount: 0.2 }}>
+      <motion.div variants={fadeInUp} initial="hidden" whileInView="visible" viewport={{ once: true, amount: 0.2 }}>
         <FacultyReviews />
-      </motion.div> */}
+      </motion.div>
 
       {/* Why Us Section */}
       {/* <motion.div variants={fadeInUp} initial="hidden" whileInView="visible" viewport={{ once: true, amount: 0.2 }}>
@@ -39,9 +42,9 @@ const LandingPage = () => {
       </motion.div> */}
 
       {/* Footer */}
-      {/* <motion.div variants={fadeInUp} initial="hidden" whileInView="visible" viewport={{ once: true, amount: 0.2 }}>
+      <motion.div variants={fadeInUp} initial="hidden" whileInView="visible" viewport={{ once: true, amount: 0.2 }}>
         <FooterSection />
-      </motion.div> */}
+      </motion.div>
     </div>
   );
 };
