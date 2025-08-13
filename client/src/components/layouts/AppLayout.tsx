@@ -4,7 +4,6 @@ import FooterSection from "./FooterSection";
 import Hero from "./Hero";
 import AboutUs from "./Trust and Security";
 import FacultyReviews from "./Pricing";
-import WhyUs from "./WhyUs";
 
 const fadeInUp = {
   hidden: { opacity: 0, y: 40 },
