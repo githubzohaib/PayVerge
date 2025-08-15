@@ -12,5 +12,5 @@ It showcases a modern, responsive, and visually engaging design for digital fina
 
 <h1>🛠 Tech Stack</h1>
 
-⚛ React.js – UI framework<br>
+⚛  React.js – UI framework<br>
 🎨 Tailwind CSS – Utility-first styling
